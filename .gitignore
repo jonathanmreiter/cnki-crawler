@@ -1,0 +1,4 @@
+corpus.txt
+*.csv
+*.html
+__pycache__/
