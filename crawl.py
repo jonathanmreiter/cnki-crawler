@@ -155,5 +155,5 @@ def iterate_through_corpus_and_download(
 
 if __name__ == "__main__":
     iterate_through_corpus_and_download(
-        "corpus.txt", "2024mech-01-01", "2025-09-19", 24
+        "corpus.txt", "2024-01-01", "2025-09-19", 24
     )
